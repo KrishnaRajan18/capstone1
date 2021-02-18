@@ -34,3 +34,5 @@ Users can append a recipe's ingredients into a grocery list.The grocery list is 
 Lastly, users can fovorite a recipe for future, via AJAX POST requests, which can be accessed in their profile page. The profile page includes user info .
 
 
+##API 
+#https://spoonacular.com/food-api/docs
